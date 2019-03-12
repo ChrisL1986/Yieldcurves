@@ -1,4 +1,4 @@
-# yieldcurves
+#Yieldcurves
 Downloads daily treasury yield curve rates from https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/default.aspx.
 
 One function plots daily treasury yield curve rates. Grey areas show recessions and red areas show the topping in the SP500 before recession.
